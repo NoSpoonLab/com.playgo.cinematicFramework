@@ -1,0 +1,9 @@
+{
+  "name": "PlayGo.CinematicFramework.Editor",
+  "references": [
+    "PlayGo.CinematicFramework"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
