@@ -1,0 +1,9 @@
+{
+  "name": "PlayGo.TestPackage.Editor",
+  "references": [
+    "PlayGo.TestPackage"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
