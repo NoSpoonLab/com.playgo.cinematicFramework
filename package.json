@@ -1,0 +1,10 @@
+{
+  "name": "com.playgo.cinematicFramework",
+  "version": "0.1.1",
+  "displayName": "PlayGo Cinematic Framework",
+  "description": "Paquete de desarrollo de experiencias cinematicas para Unity distribuido por Git.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Play&Go Experience"
+  }
+}
