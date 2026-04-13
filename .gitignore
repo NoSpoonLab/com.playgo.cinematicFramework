@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.csproj
+*.sln
+*.user
+*.tmp
+*.log
+Library/
+Temp/
+Obj/
