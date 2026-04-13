@@ -1,7 +1,8 @@
 {
   "name": "PlayGo.CinematicFramework.Editor",
   "references": [
-    "PlayGo.CinematicFramework"
+    "PlayGo.CinematicFramework",
+    "Unity.TextMeshPro"
   ],
   "includePlatforms": [
     "Editor"

@@ -1,3 +1,6 @@
 {
-  "name": "PlayGo.CinematicFramework"
+  "name": "PlayGo.CinematicFramework",
+    "references": [
+    "Unity.TextMeshPro"
+  ]
 }

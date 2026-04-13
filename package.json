@@ -1,9 +1,12 @@
 {
   "name": "com.playgo.cinematicframework",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "displayName": "PlayGo Cinematic Framework",
-  "description": "Paquete de desarrollo de experiencias cinematicas para Unity distribuido por Git.",
+  "description": "Paquete de desarrollo de experiencias cinemáticas para Unity distribuido por Git.",
   "unity": "2022.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
   "author": {
     "name": "Play&Go Experience"
   }
